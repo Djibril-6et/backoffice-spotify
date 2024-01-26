@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-// import '../../styles/components/header.scss';
+import '../../styles/components/header.scss';
 import BlackLogo from '../../assets/logo/black-logo.svg';
 // import Button from '../Button';
 
